@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 Replace the Project Title with bikeshare_project_3
 
 ### Description
-Describe what your project is about and what it does
+the project will answer interesting questions about it by computing descriptive statistics for the U.S. Bikeshare.
 
 ### Files used
 Include the files used
